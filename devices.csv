@@ -1,0 +1,101 @@
+device_id,user_id,device_type,os
+1,1,Smart TV,Windows
+2,2,Laptop,Linux
+3,3,Smart TV,Android
+4,4,Desktop,Windows
+5,5,Laptop,iOS
+6,6,Laptop,Linux
+7,7,Smart TV,iOS
+8,8,Smart TV,macOS
+9,9,Desktop,macOS
+10,10,Smart TV,macOS
+11,11,Tablet,Android
+12,12,Desktop,iOS
+13,13,Smart TV,iOS
+14,14,Smart TV,macOS
+15,15,Smart TV,Android
+16,16,Laptop,macOS
+17,17,Desktop,macOS
+18,18,Laptop,Windows
+19,19,Desktop,Windows
+20,20,Tablet,iOS
+21,21,Smart TV,Windows
+22,22,Desktop,Android
+23,23,Tablet,Linux
+24,24,Tablet,Windows
+25,25,Desktop,Linux
+26,26,Desktop,Android
+27,27,Laptop,iOS
+28,28,Laptop,Windows
+29,29,Laptop,iOS
+30,30,Smart TV,iOS
+31,31,Smart TV,Windows
+32,32,Smart TV,Windows
+33,33,Desktop,iOS
+34,34,Laptop,iOS
+35,35,Tablet,iOS
+36,36,Smart TV,macOS
+37,37,Smart TV,Windows
+38,38,Desktop,Android
+39,39,Tablet,macOS
+40,40,Tablet,Linux
+41,41,Laptop,Linux
+42,42,Mobile,macOS
+43,43,Mobile,macOS
+44,44,Desktop,macOS
+45,45,Mobile,Linux
+46,46,Desktop,iOS
+47,47,Laptop,iOS
+48,48,Laptop,Linux
+49,49,Tablet,Windows
+50,50,Desktop,Windows
+51,51,Tablet,Linux
+52,52,Smart TV,iOS
+53,53,Tablet,macOS
+54,54,Mobile,Linux
+55,55,Laptop,macOS
+56,56,Tablet,Linux
+57,57,Mobile,Linux
+58,58,Desktop,macOS
+59,59,Tablet,macOS
+60,60,Tablet,Windows
+61,61,Mobile,macOS
+62,62,Tablet,Windows
+63,63,Smart TV,Windows
+64,64,Laptop,iOS
+65,65,Mobile,Linux
+66,66,Desktop,Android
+67,67,Desktop,Linux
+68,68,Mobile,Linux
+69,69,Laptop,iOS
+70,70,Desktop,Windows
+71,71,Smart TV,Android
+72,72,Laptop,Linux
+73,73,Laptop,Windows
+74,74,Tablet,macOS
+75,75,Tablet,macOS
+76,76,Mobile,Windows
+77,77,Laptop,Linux
+78,78,Laptop,Windows
+79,79,Tablet,Android
+80,80,Laptop,Android
+81,81,Desktop,Windows
+82,82,Mobile,Windows
+83,83,Desktop,Windows
+84,84,Smart TV,macOS
+85,85,Desktop,iOS
+86,86,Desktop,Android
+87,87,Mobile,iOS
+88,88,Desktop,Android
+89,89,Laptop,iOS
+90,90,Mobile,Android
+91,91,Laptop,Windows
+92,92,Desktop,macOS
+93,93,Tablet,Windows
+94,94,Mobile,Android
+95,95,Tablet,Linux
+96,96,Laptop,Linux
+97,97,Desktop,Windows
+98,98,Tablet,iOS
+99,99,Smart TV,Android
+100,100,Laptop,Android

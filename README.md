@@ -1,6 +1,8 @@
 # 📊 Netflix-User-Analytics-Dashboard-Power-BI-
 <img width="1398" alt="Screenshot 2025-06-27 at 8 48 52 PM" src="https://github.com/user-attachments/assets/53b09f15-41fd-4f4e-860d-11b72975c2a0" />
 
+https://app.powerbi.com/links/8MSaLcl8Oa?ctid=75e19a76-5eb5-44f4-bb32-66ecc7827e1e&pbi_source=linkShare
+
 This project is a Power BI dashboard designed to visualize and analyze user behavior, device usage, subscription plans, and content preferences on a simulated Netflix-like platform. The dashboard offers interactive visuals and filters to help stakeholders gain insights into user engagement and operational metrics.
 
 ## 🚀 Project Highlights
